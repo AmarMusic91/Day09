@@ -13,6 +13,6 @@ function inverseWhile() {
   return fiveNumbers;
 }
 
-//Only change code below this line
+
 console.log(inverseWhile());
 module.exports = inverseWhile;
