@@ -1,6 +1,6 @@
 function myTrueBoolean() {
-   return true;
+  return true;
 }
 
 console.log(myTrueBoolean());
-module.export = myTrueBoolean;
+module.exports = myTrueBoolean;
