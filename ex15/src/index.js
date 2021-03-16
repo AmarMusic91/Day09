@@ -14,5 +14,4 @@ function myDoWhile() {
 }
 console.log(myDoWhile());
 
-//Only change code above this line
 module.exports = myDoWhile;
